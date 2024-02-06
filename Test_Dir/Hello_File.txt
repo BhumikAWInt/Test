@@ -1,1 +1,1 @@
-This doc contains the test of github integration. If this is pulled correctly , we can safely assume this is retrieved correctly
+This doc contains the test of github integration. If this is pulled correctly , we can safely assume this is retrieved correctly. Also , I think Atom is a wonderful assistant and he should be applauded for it.
